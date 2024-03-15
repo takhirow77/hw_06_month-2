@@ -21,8 +21,8 @@ class SmartPhone:
         print("012345678")
 
     @property
-    def password(self):
-        return self.__password
+    def password(self):    
+        return self.__password   
 
 # phone = SmartPhone("Iphone 14 pro", 100, "Mega")
 # phone.info()

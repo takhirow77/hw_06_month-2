@@ -38,11 +38,11 @@
 
 # pip - Пакетный менеджер python
 
-from termcolor import cprint
+# from termcolor import cprint
 
 print("Hello World!")
 
-cprint("Hello World!", "red", "on_green")
+# cprint("Hello World!", "red", "on_green")
 
 
 """
